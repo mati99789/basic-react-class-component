@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/%20basic-react-class-component/static/css/main.a1c34efe.chunk.css",
-    "main.js": "/%20basic-react-class-component/static/js/main.3a713df3.chunk.js",
-    "main.js.map": "/%20basic-react-class-component/static/js/main.3a713df3.chunk.js.map",
-    "runtime-main.js": "/%20basic-react-class-component/static/js/runtime-main.d03c28c2.js",
-    "runtime-main.js.map": "/%20basic-react-class-component/static/js/runtime-main.d03c28c2.js.map",
-    "static/js/2.376cb942.chunk.js": "/%20basic-react-class-component/static/js/2.376cb942.chunk.js",
-    "static/js/2.376cb942.chunk.js.map": "/%20basic-react-class-component/static/js/2.376cb942.chunk.js.map",
-    "static/js/3.d786c8b5.chunk.js": "/%20basic-react-class-component/static/js/3.d786c8b5.chunk.js",
-    "static/js/3.d786c8b5.chunk.js.map": "/%20basic-react-class-component/static/js/3.d786c8b5.chunk.js.map",
-    "index.html": "/%20basic-react-class-component/index.html",
-    "static/css/main.a1c34efe.chunk.css.map": "/%20basic-react-class-component/static/css/main.a1c34efe.chunk.css.map",
-    "static/js/2.376cb942.chunk.js.LICENSE.txt": "/%20basic-react-class-component/static/js/2.376cb942.chunk.js.LICENSE.txt"
+    "main.css": "/basic-react-class-component/static/css/main.a1c34efe.chunk.css",
+    "main.js": "/basic-react-class-component/static/js/main.3a713df3.chunk.js",
+    "main.js.map": "/basic-react-class-component/static/js/main.3a713df3.chunk.js.map",
+    "runtime-main.js": "/basic-react-class-component/static/js/runtime-main.3b2314e5.js",
+    "runtime-main.js.map": "/basic-react-class-component/static/js/runtime-main.3b2314e5.js.map",
+    "static/js/2.376cb942.chunk.js": "/basic-react-class-component/static/js/2.376cb942.chunk.js",
+    "static/js/2.376cb942.chunk.js.map": "/basic-react-class-component/static/js/2.376cb942.chunk.js.map",
+    "static/js/3.d786c8b5.chunk.js": "/basic-react-class-component/static/js/3.d786c8b5.chunk.js",
+    "static/js/3.d786c8b5.chunk.js.map": "/basic-react-class-component/static/js/3.d786c8b5.chunk.js.map",
+    "index.html": "/basic-react-class-component/index.html",
+    "static/css/main.a1c34efe.chunk.css.map": "/basic-react-class-component/static/css/main.a1c34efe.chunk.css.map",
+    "static/js/2.376cb942.chunk.js.LICENSE.txt": "/basic-react-class-component/static/js/2.376cb942.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.d03c28c2.js",
+    "static/js/runtime-main.3b2314e5.js",
     "static/js/2.376cb942.chunk.js",
     "static/css/main.a1c34efe.chunk.css",
     "static/js/main.3a713df3.chunk.js"
