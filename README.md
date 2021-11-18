@@ -1,6 +1,6 @@
 # Basic Ract Class Component.
-This time we will use the React library to build a simple react class component and using fetch API.
-Live preview: [Live Previe of project](https://mati99789.github.io/basic-react-class-component/)
+This time we will use the React library to build a simple react class component and using fetch API. 
+[Live Previe of project](https://mati99789.github.io/basic-react-class-component/)
 
 
 **Main features**:
